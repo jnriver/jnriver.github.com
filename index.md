@@ -5,42 +5,23 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+主页君
+---
+主页君应该长什么样子好呢？<br>
+感觉没啥好放的东西啊！！<br>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+这是哪？
+---
+这是我的个人blog，<br>我是谁？这blog咋搭的？请移步最后一个房间[`关于`](/about.html)
 
-## Update Author Attributes
+这里有什么？
+---
+都说了是个人blog了，就是些日记差不多的东西。<br>
+文化人读书笔记自然会有了。<br>
+当码农，代码肯定少不了。<br>
+<del>文艺青年的</del>日记什么的大概也会有一些吧。<br>
+文章什么的二号（[`存档`](/archive.html)），三号（[`分类`](/categories.html)），四号（[`标签`](/tags.html)）房间都是啦。不同的展示方法而已。
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+最后
+---
+其实我觉得当你看到这个页面，你一定是走错了，一定是的。

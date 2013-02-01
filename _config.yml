@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Corner Note
+title : 南瓜园
 tagline: Site Tagline
 author :
-  name : nan gua
+  name : jiang nan
   email : jnriver1986@gmail.com
-  github : https://github.com/jnriver
+  github : jnriver
   twitter : 
   feedburner : 
 

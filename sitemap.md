@@ -1,7 +1,9 @@
 ---
-# Remember to set production_url in your _config.yml file!
-title : Sitemap
+layout: page
+title: Site Map
 ---
+{% include JB/setup %}
+
 {% for page in site.pages %}
 {{site.production_url}}{{ page.url }}{% endfor %}
 {% for post in site.posts %}
