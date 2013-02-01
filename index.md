@@ -18,7 +18,7 @@ tagline: Supporting tagline
 ---
 都说了是个人blog了，就是些日记差不多的东西。<br>
 文化人读书笔记自然会有了。<br>
-当码农，代码肯定少不了。<br>
+当 程序(ma)员(nong)，代码肯定少不了。<br>
 <del>文艺青年的</del>日记什么的大概也会有一些吧。<br>
 文章什么的二号（[`存档`](/archive.html)），三号（[`分类`](/categories.html)），四号（[`标签`](/tags.html)）房间都是啦。不同的展示方法而已。
 
