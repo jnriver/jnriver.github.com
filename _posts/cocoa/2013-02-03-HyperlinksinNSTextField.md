@@ -10,23 +10,20 @@ tags : [codemaker]
 
 	- (void)setHyperlink:(NSString *)text inField:(NSTextField *)field
 	{
-    	// ignore semicolon
-    
     	NSURL *link = [[NSURL alloc] initWithString:[NSString stringWithFormat:@"mailto:%@",text]];
     
     	NSMutableAttributedString* attrString = [[NSMutableAttributedString alloc] initWithString:text];
-	    NSRange range = NSMakeRange(0, [attrString length]);
+    	NSRange range = NSMakeRange(0, [attrString length]);
     
     	[attrString beginEditing];
-	    [attrString addAttribute:NSLinkAttributeName value:link range:range];
+    	[attrString addAttribute:NSLinkAttributeName value:link range:range];
     	[attrString addAttribute:NSForegroundColorAttributeName value:[NSColor blueColor] range:range];
-    	[attrString addAttribute:NSUnderlineStyleAttributeName value:		[NSNumber numberWithInt:NSSingleUnderlineStyle] range:range];
-	    [attrString endEditing];
+    	[attrString addAttribute:NSUnderlineStyleAttributeName value:[NSNumber numberWithInt:NSSingleUnderlineStyle] range:range];
+    	[attrString endEditing];
     
     	[field setAllowsEditingTextAttributes:YES];
-	    [field setSelectable:YES];
+    	[field setSelectable:YES];
     	[field setAttributedStringValue:attrString];
 	}
-
 结果表现效果不很理想。
 然后在stack overflow中查到一个apple的官方[QA](https://developer.apple.com/library/mac/#qa/qa2006/qa1487.html)。
