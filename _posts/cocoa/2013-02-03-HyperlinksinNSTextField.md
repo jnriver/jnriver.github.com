@@ -27,3 +27,6 @@ tags : [codemaker]
 	}
 结果表现效果不很理想。
 然后在stack overflow中查到一个apple的官方[QA](https://developer.apple.com/library/mac/#qa/qa2006/qa1487.html)。
+<br>
+<br>
+吃完饭后回来看上面提到的官方QA，结果。。就是我上面的实现方式。。好吧。。就这样吧。。
