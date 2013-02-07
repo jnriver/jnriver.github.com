@@ -12,7 +12,7 @@ tagline: Supporting tagline
 
 这是哪？
 ---
-这是我的个人blog，<br>我是谁？这blog咋搭的？请移步最后一个房间[`关于`](/about.html)
+我叫南瓜，<br>这是我的个人blog，所以叫南瓜田。<br>我是谁？这blog咋搭的？请移步最后一个房间[`关于`](/about.html)
 
 这里有什么？
 ---
