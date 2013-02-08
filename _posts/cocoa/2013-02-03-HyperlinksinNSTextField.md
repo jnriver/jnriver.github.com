@@ -4,6 +4,7 @@ category : cocoa
 title : 在NSTextField中实现超链接
 tags : [codemaker]
 ---
+{% include JB/setup %}
 
 工作上要实现一个效果，在app中提供一个超链接。
 先按照了最近简单的思路做，填一个`NSMutableAttributedString`进去
