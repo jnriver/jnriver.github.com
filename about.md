@@ -7,11 +7,12 @@ tagline: Supporting tagline
 
 我
 ---
-`LV.4初级码农`<br>
- `祖籍南方生在北方长在北方活在南方不知道南方还是北方人`<br>
-`死宅` <code><del>伪</del>ACG爱好者</code> `吃完饭要帮妹子洗碗哦！`<br>
-`视力5.2 * 2`<br>
-`成就：走过煤窑` `成就：走过帝都` `成就：走过宅男天堂` `成就：走过海边`
+`LV.4初级码农`<br/>
+ `祖籍南方生在北方长在北方活在南方不知道南方还是北方人`<br/>
+`死宅` <code><del>伪</del>ACG爱好者</code> `吃完饭要帮妹子洗碗哦！`<br/>
+`视力5.2 * 2`<br/>
+`成就：走过煤窑` `成就：走过帝都` `成就：走过宅男天堂` `成就：走过海边`<br/>
+[`weibo`](http://weibo.com/1644788327) [`github`](https://github.com/jnriver)[`gmail`](mailto:jnriver1986@gmail.com) <br/>
 
 这里
 ---
