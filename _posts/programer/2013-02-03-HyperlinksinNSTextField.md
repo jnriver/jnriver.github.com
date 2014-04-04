@@ -1,8 +1,8 @@
 ---
 layout: post
-category : cocoa
+category : programer
 title : 在NSTextField中实现超链接
-tags : [codemaker]
+tags : [programer, cocoa]
 ---
 {% include JB/setup %}
 

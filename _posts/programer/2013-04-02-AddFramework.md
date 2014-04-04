@@ -1,8 +1,8 @@
 ---
 layout: post
-category : cocoa
+category : programer
 title : 打包带有第三方framework的app bundle
-tags : [codemaker]
+tags : [programer, cocoa]
 ---
 {% include JB/setup %}
 
